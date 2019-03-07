@@ -1,0 +1,25 @@
+to make use of xamp to run your application
+place the application folder to the root of your xampp directory
+e.g
+C:\xampp\htdocs
+
+to run your php 
+start the xampp and the mysql
+then visit 
+localhost or 127.0.0.1
+
+//How can I set a root password in MySQL? through xampp
+Open the shell from the XAMPP control pane and execute this command:
+
+
+xampp root password through xampp
+file location on this system
+C:\xampp\phpMyAdmin\config.inc.php or
+xampp\phpMyAdmin\config.inc.php
+pass: National1#$34jago
+
+
+to make php display within an html. it has to be within its tag
+<?php
+echo "Hello world"
+?>
